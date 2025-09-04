@@ -1,20 +1,24 @@
 # ML Basics 🚀
 
-This repo contains my implementations of fundamental machine learning algorithms while learning the basics.  
-Each notebook includes explanations, visualizations, and code from scratch + scikit-learn.
+This repository contains my Google Colab notebook where I explore the fundamentals of machine learning.  
+It includes step-by-step implementations, explanations, and experiments with core ML algorithms.
 
-## Contents
+## 📘 Notebook
+[👉 Open in Google Colab](https://colab.research.google.com/drive/13A59OHYlx6OEGa5QQGuI8XFdU7r1bnEP?usp=sharing)
+
+## 📂 Contents
 - Linear Regression
 - Logistic Regression
-- KNN
+- K-Nearest Neighbors (KNN)
 - Naive Bayes
 - Support Vector Machines
 - Clustering (KMeans, Hierarchical)
 
-## Tools
+
+## 🛠 Tools
 - Python
 - NumPy, Pandas, Matplotlib
 - scikit-learn
 
-## Goal
-To build a strong foundation in ML by coding algorithms and experimenting on small datasets.
+## 🎯 Goal
+To build a strong foundation in machine learning by coding algorithms, experimenting with datasets, and understanding the underlying concepts.
