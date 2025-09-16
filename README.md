@@ -13,6 +13,8 @@ It includes step-by-step implementations, explanations, and experiments with cor
 - Naive Bayes
 - Support Vector Machines
 - Clustering (KMeans, Hierarchical)
+- Decision Tree
+- Random Forest
 
 
 ## 🛠 Tools
@@ -22,3 +24,4 @@ It includes step-by-step implementations, explanations, and experiments with cor
 
 ## 🎯 Goal
 To build a strong foundation in machine learning by coding algorithms, experimenting with datasets, and understanding the underlying concepts.
+Dataset Used for learning :https://archive.ics.uci.edu/dataset/159/magic+gamma+telescope
